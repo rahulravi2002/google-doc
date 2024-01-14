@@ -83,7 +83,6 @@ export default function Docs({ database }) {
             <Modal
                 open={open}
                 setOpen={setOpen}
-                
                 setTitle={setTitle}
                 addData={addData}
             />
